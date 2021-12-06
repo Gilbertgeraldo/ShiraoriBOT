@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">SHIRAORI BOT</h1>
+<h1 align="center">SHIRAORI BOT MD</h1>
 
 
 
@@ -61,37 +61,7 @@ node .
 
 ## Arguments `node . [--options] [<session name>]`
 
-#### Contoh: `node . --self --restrict --autoread`
 
-### `--self`
-
-Aktifkan mode self (Mengabaikan yang lain)
-
-### `--prefix <prefixes>`
-
-* `prefixes` dipisahkan oleh masing-masing karakter
-Setel awalan
-
-### `--server`
-
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
-
-### `--db <json-server-url>`
-
-Gunakan db eksternal alih-alih db lokal, 
-Contoh Server `https://json-server.nurutomo.repl.co/`
-Code: `https://repl.it/@Nurutomo/json-server`
-
-`node . --db 'https://json-server.nurutomo.repl.co/'`
-
-Server harus memiliki spesifikasi seperti ini
-
-#### GET
-
-```http
-GET /
-Accept: application/json
-```
 
 #### POST
 
