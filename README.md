@@ -63,26 +63,10 @@ node .
 
 
 
-#### POST
 
-```http
-POST /
-Content-Type: application/json
 
-{
- data: {}
-}
-```
+ 
 
-### `--big-qr`
-
-Jika qr unicode kecil tidak mendukung
-
-### `--restrict`
-
-Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda **diblokir** jika digunakan terlalu sering)
-
-* Administrasi Grup `add, kick, promote, demote`, `kickall`
 
 ### `--img`
 
