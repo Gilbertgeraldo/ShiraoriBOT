@@ -1,7 +1,7 @@
 {
   "name": "ShiraoriBOT",
-  "version": "2.0.1",
-  "description": "SHIRAORI",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot using library baileys Multi device",
   "main": "index.js",
   "scripts": {
     "start": "node index.js --self",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ilmanhdyt",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "github:adiwajshing/bailyes#multi-device",
     "awesome-phonenumber": "^2.54.0",
     "axios": "^0.21.1",
     "brainly-scraper-v2": "^2.0.3",
