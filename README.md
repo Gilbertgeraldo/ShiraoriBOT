@@ -1,5 +1,8 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<p align="center">
+<a href="#"><img title="CHIKA BOT MULTI DEVICE" src="https://img.shields.io/badge/CHIKA BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 
 
