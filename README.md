@@ -63,39 +63,6 @@ node .
 
 
 
-
-
- 
-
-
-### `--img`
-
-Aktifkan pemeriksa gambar melalui terminal
-
-### `--autoread`
-
-Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca
-
-### `--nyimak`
-
-Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--trace`
-
-```js
-conn.logger.level = 'trace'
-```
-
-### `--debug`
-
-```js
-conn.logger.level = 'debug'
-```
-
 ---------
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt)
