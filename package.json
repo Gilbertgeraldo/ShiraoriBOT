@@ -1,5 +1,5 @@
 {
-  "name": "ShiraoriBOT",
+  "name": "GilbertBOT",
   "version": "2.0.1",
   "description": "Simple bot WhatsApp with adiwajshing baileys",
   "main": "index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ilmanhdyt/ShiraoriBOT.git"
+    "url": "git+https://github.com/Gilbertgeraldo/ShiraoriBOT.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "ilman",
+  "author": "Gilbert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ilmanhdyt/ShiraoriBOT/issues"
+    "url": "https://github.com/Gilbertgeraldo/ShiraoriBOT/issues"
   },
-  "homepage": "https://github.com/ilmanhdyt",
+  "homepage": "https://github.com/Gilbertgeraldo",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
     "awesome-phonenumber": "^2.54.0",
