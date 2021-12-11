@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">SHIRAORI BOT</h1>
+<h1 align="center">SHIRAORI BOT<3</h1>
 
 
 
@@ -106,7 +106,7 @@ Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Gilbert](https://github.com/Gilbertgeraldo.png?size=150)](https://github.com/Gilbertgeraldo)
 ----|----
 [Nurutomo](https://github.com/Nurutomo) | [Gilbert](https://github.com/ilmanhdyt) 
- Author | Recode 
+ Author | Kang Sayur:v(Recode) 
 
 
 ### Donated
