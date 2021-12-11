@@ -7,7 +7,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ilmanhdyt/ShiraoriBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/Gilbertgeraldo/heroku.com/deploy?template=https://github.com//ShiraoriBOT)
 
 [![Grup WhatsApp](https://img.shields.io/badge/GroupWhatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/D7TmQm7UcfIBELBux19kIA)
 
@@ -22,7 +22,7 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ilmanhdyt/ShiraoriBOT
+git clone https://github.com/Gilbertgeraldo/ShiraoriBOT
 cd ShiraoriBOT
 npm install
 npm update
@@ -33,7 +33,7 @@ npm index
 
 ## UNTUK PENGGUNA TERMUX
 ```bash
-git clone https://github.com/ilmanhdyt/ShiraoriBOT
+git clone https://github.com/Gilbertgeraldo/ShiraoriBOT
 cd ShiraoriBOT
 npm i
 npm update
@@ -49,8 +49,8 @@ node .
 
 
 ## Edit file
-- Ganti Nomor Owner [disini](https://github.com/ilmanhdyt/ShiraoriBOT/blob/main/config.js)
-- Ganti Tampilan Menu [disini](https://github.com/ilmanhdyt/ShiraoriBOT/blob/main/plugins/menu.js)
+- Ganti Nomor Owner [disini](https://github.com/Gilbertgeraldo/ShiraoriBOT/blob/main/config.js)
+- Ganti Tampilan Menu [disini](https://github.com/Gilbertgeraldo/ShiraoriBOT/blob/main/plugins/menu.js)
 
 - Kalian bisa menambah fitur dengan cara pull request
 
@@ -103,12 +103,14 @@ Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Gilbert](https://github.com/Gilbertgeraldo.png?size=150)](https://github.com/Gilbertgeraldo)
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ilman](https://github.com/ilmanhdyt) 
+[Nurutomo](https://github.com/Nurutomo) | [Gilbert](https://github.com/ilmanhdyt) 
  Author | Recode 
 
 
 ### Donated
 
-[`Saweria`](https://saweria.co/ilmanhdyt)
+Gojek:081235136510:)
+thanks yang udh donate
+NOTE:JANGAN JUAL SC INI, SC INI BOLEH DIPAKE SECARA GRATIS+BOLEH DI RECODE ASALKAN CANTUMKAN NAMA AUTHORNYA
