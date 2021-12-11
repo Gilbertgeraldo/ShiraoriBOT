@@ -426,9 +426,9 @@ module.exports = {
         }
         break
       case 'promote':
-        text = (chat.sPromote || this.spromote || conn.spromote || '@user sekarang Admin')
+        text = (chat.sPromote || this.spromote || conn.spromote || '@user sekarang Admin(horeee beban gc jadi admin) ')
       case 'demote':
-        if (!text) text = (chat.sDemote || this.sdemote || conn.sdemote || '@user sekarang bukan Admin')
+        if (!text) text = (chat.sDemote || this.sdemote || conn.sdemote || '@user sekarang bukan Admin(yah di unadmin wkwk, MAMPUS @user)')
         text = text.replace('@user', '@' + participants[0].split`@`[0])
         if (chat.detect) this.sendMessage(jid, text, MessageType.extendedText, {
           contextInfo: {
@@ -490,15 +490,15 @@ ketik *.on delete* untuk mematikan pesan ini
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: 'Perintah ini hanya dapat digunakan oleh _*Ilman*_',
-    owner: 'Perintah ini hanya dapat digunakan oleh _*Ilman*_',
+    rowner: 'Perintah ini hanya dapat digunakan oleh _*Gilbert*_',
+    owner: 'Perintah ini hanya dapat digunakan oleh _*Gilbert*_',
     mods: 'Perintah ini hanya dapat digunakan oleh _*Admin Shiraori*_',
     premium: 'Perintah ini hanya untuk pengguna _*Premium*_',
     group: 'Perintah ini hanya dapat digunakan di grup',
     private: 'Perintah ini hanya dapat digunakan di Chat Pribadi',
     admin: 'Perintah ini hanya untuk *Admin* grup',
-    botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini',
-    unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*.daftar nama.umur*\n\nContoh: *.daftar ilman.16*',
+    botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini,jadiin admin dulu ya abang cantik:)',
+    unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*.daftar nama#umur*\n\nContoh: *.daftar Gilbert.15*',
     nsfw: 'NSFW tidak aktif'
   }[type]
   if (msg) return m.reply(msg)
